@@ -11,8 +11,5 @@ package-lock.json
 # Optional npm cache directory
 .npm
 
-# Prod Bundle
-/build
-
 .vscode
 .idea
